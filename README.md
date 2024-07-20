@@ -1,2 +1,3 @@
 # Html-Projects
-Projects Using Html
+Projects Using Html - media project/Product catalog
+
